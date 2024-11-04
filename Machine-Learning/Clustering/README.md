@@ -12,10 +12,6 @@ This project clusters malware data based on network traffic features using Gauss
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Introduction
@@ -27,7 +23,8 @@ This project applies unsupervised machine learning techniques to group malware s
 3. Evaluate and visualize clustering results to interpret potential malware families.
 
 ## Dataset
-The dataset used in this project is the **CTU-IoT-Malware-Capture-8-1conn.log.labeled.csv**. It includes several network features that help in distinguishing malware samples based on their communication patterns.
+The dataset used in this project is the **CTU-IoT-Malware-Capture-8-1conn.log.labeled.csv**. It includes several network features that help in distinguishing malware samples based on their communication patterns. 
+> For complete dataset, refer [Dataset](https://www.stratosphereips.org/datasets-iot23)
 
 > **Note**: Ensure appropriate licensing and legal usage of the dataset.
 
