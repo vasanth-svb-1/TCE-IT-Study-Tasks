@@ -24,8 +24,10 @@ The environment includes:
 The Q-learning agent uses an epsilon-greedy policy to balance exploration and exploitation, with Q-values updated at each step. Q-value convergence is tracked to monitor learning progress.
 
 ## Running the Project
-1. Ensure you have all dependencies installed (refer requirements.txt).
-2. Run the script to start training the agent:
+1. Ensure you have all dependencies installed.
+   ```bash
+   pip install -r requirements.txt
+3. Run the script to start training the agent:
    ```bash
    python RL-Phishing.py
 
