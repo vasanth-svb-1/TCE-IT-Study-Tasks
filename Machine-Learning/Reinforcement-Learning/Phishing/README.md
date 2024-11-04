@@ -27,5 +27,5 @@ The Q-learning agent uses an epsilon-greedy policy to balance exploration and ex
 1. Ensure you have all dependencies installed (refer requirements.txt).
 2. Run the script to start training the agent:
    ```bash
-   python phishing_rl.py
+   python RL-Phishing.py
 
